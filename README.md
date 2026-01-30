@@ -1,6 +1,6 @@
 # EfficientNet Image Classification
 
-EfficientNet-based image classification implemented as part of a graduate-level Deep Learning course project.
+EfficientNet-based image classification implemented as part of a CS 7643 Deep Learning course project.
 
 ## Overview
 This repository contains the EfficientNet model implementation, training pipeline, and configuration used for image classification experiments.
