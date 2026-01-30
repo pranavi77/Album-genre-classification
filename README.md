@@ -22,3 +22,9 @@ pip install -r requirements.txt
 
 ## Run
 python train_efficientnet.py
+
+## Report
+The full project report is available in `docs/`.
+This was a team project for CS 7643 (Deep Learning).
+My primary contribution was the EfficientNet architecture, training pipeline,
+hyperparameter tuning, and analysis (Section 3.1.2).
